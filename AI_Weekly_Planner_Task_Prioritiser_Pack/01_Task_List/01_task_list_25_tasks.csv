@@ -1,0 +1,26 @@
+﻿Task ID,Task,Deadline (date),Estimated effort (hours),Importance,Initial priority note,Category,Actual deadline confirmed?,Notes
+T01,Complete capstone task list and setup,2026-10-26,1.0,High,Important; schedule early,Planning,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T02,Review Subject A — Unit 1,2026-10-26,2.0,High,Urgent + important,Study,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T03,Programming practice set,2026-10-27,2.0,High,Urgent + important,Coding,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T04,Draft assignment,2026-10-27,2.0,High,Urgent + important,Assignment,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T05,Revise Subject B — Unit 2,2026-10-28,1.5,High,Important; near deadline,Study,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T06,Complete database lab exercise,2026-10-28,2.0,High,Urgent + important,Lab,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T07,Research weekly-planning methods,2026-10-28,1.0,Medium,Important; bounded research,Research,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T08,Create project workflow diagram,2026-10-29,1.5,High,Important project milestone,Project,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T09,Mathematics problem set,2026-10-29,2.0,High,Urgent + important,Study,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T10,Revise Subject A — Unit 2,2026-10-29,1.5,Medium,Important; schedule,Study,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T11,Complete weekly assignment,2026-10-30,2.0,High,Urgent + important,Assignment,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T12,Practise five coding problems,2026-10-30,2.0,High,Important practice,Coding,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T13,Compare outputs from three AI tools,2026-10-30,1.5,High,Core project evidence,Project,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T14,Prepare presentation slides,2026-10-31,2.0,High,Important project milestone,Project,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T15,Build one mini-project feature,2026-10-31,2.5,High,Important project work,Project,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T16,Revise Subject B — Unit 3,2026-10-31,1.5,Medium,Important; schedule,Study,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T17,Create one-page weekly template,2026-10-31,1.0,Medium,Required deliverable,Project,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T18,Verify AI-generated schedules,2026-10-31,1.0,High,Required quality check,Verification,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T19,Review missed coding questions,2026-11-01,1.5,Medium,Learning follow-up,Coding,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T20,Write final project report,2026-11-01,2.0,High,Required deliverable,Project,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T21,Analyse completion-rate data,2026-11-01,1.0,High,Required evaluation,Analysis,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T22,Create before-and-after chart,2026-11-01,1.0,Medium,Required evaluation,Analysis,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T23,Prepare final demo,2026-11-01,1.5,High,Required deliverable,Presentation,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T24,Organise notes and project files,2026-11-01,0.5,Low,Admin; batch if time,Admin,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload
+T25,Weekly review and next-week planning,2026-11-01,0.5,Medium,Close-out and reflection,Review,NO - illustrative deadline; replace with real deadline,Sample task; replace/adapt to actual workload

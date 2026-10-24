@@ -1,0 +1,12 @@
+﻿Check ID,Verification check,Result (Pass/Fail/Needs review),Evidence,Issue severity,Correction/action,Verified by/date
+V01,All 25 task IDs appear or are explicitly deferred,,,,,
+V02,Deadlines match source task list,,,,,
+V03,No overlapping scheduled blocks,,,,,
+V04,Total scheduled work fits actual available hours,,,,,
+V05,Durations match estimates or deviations are explained,,,,,
+V06,Fixed commitments and breaks are respected,,,,,
+V07,Priorities reflect urgency and importance,,,,,
+V08,Every unscheduled task has a reason and next action,,,,,
+V09,"No invented exams, appointments, commitments, or deadlines",,,,,
+V10,Contingency/buffer is considered where feasible,,,,,
+V11,Calendar blocks match the final verified plan,,,,,

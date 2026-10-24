@@ -1,0 +1,2 @@
+﻿Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private
+REPLACE WITH TASK ID + NAME,MM/DD/YYYY,HH:MM AM,MM/DD/YYYY,HH:MM AM,False,"Add task ID, priority, and deadline; confirm availability before import",,True

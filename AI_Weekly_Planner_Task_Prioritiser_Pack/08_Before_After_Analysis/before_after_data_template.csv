@@ -1,0 +1,13 @@
+﻿Metric,Usual method (baseline week),AI-assisted method (experiment week),Difference (AI - baseline),How to calculate / notes
+Tasks planned,,,,Use comparable weeks and scope
+Tasks completed,,,,Count actually completed tasks
+Task completion rate,,,,Completed / planned × 100; difference in percentage points
+Tasks completed on time,,,,Use real deadlines
+On-time completion rate,,,,On-time completed / tasks due × 100
+Planning time (minutes),,,,Track time spent planning
+Missed/conflicting time blocks,,,,Count observed conflicts
+Tasks carried forward,,,,Count unfinished tasks moved forward
+Estimated workload (hours),,,,Sum estimates
+Actual work time (hours),,,,Sum actual logged time
+Perceived stress (1–5),,,,Self-reported; same scale both weeks
+Notes / differences in workload,,,,"Describe exams, illness, unexpected events, etc."

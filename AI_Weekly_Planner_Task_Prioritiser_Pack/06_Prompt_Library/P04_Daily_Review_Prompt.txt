@@ -1,0 +1,1 @@
+Help me complete an honest end-of-day review. Based only on the log below, summarise completed, partial, missed, and carried-forward tasks; compare estimated with actual time; identify one likely cause of slippage; and suggest a realistic adjustment for tomorrow. Do not mark anything completed unless the log says so. Log: [paste today's actual entries].

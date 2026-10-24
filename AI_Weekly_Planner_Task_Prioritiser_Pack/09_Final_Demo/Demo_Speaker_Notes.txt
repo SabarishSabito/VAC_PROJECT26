@@ -1,0 +1,12 @@
+Suggested 5–7 minute demo script
+
+0:00–0:30 — Problem: explain that AI may create attractive schedules that are impossible to execute.
+0:30–1:15 — Show the 25-task dataset and real availability.
+1:15–2:15 — Show actual ChatGPT, Gemini and Claude outputs and explain the fair comparison setup.
+2:15–3:15 — Demonstrate verification: show one real issue, evidence, severity and correction.
+3:15–4:15 — Show the final verified calendar/task manager and how tasks that do not fit are handled.
+4:15–5:15 — Show the one-week completion log and calculated metrics.
+5:15–6:00 — Compare against usual planning, explain limitations and responsible-AI safeguards.
+6:00–6:30 — Conclusion: answer the project question using the evidence.
+
+Do not present placeholders or sample data as measured findings. Replace each bracketed slide instruction with your actual screenshots/data.

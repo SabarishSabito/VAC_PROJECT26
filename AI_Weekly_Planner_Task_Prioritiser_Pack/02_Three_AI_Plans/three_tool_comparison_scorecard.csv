@@ -1,0 +1,8 @@
+﻿Criterion,Weight (points),ChatGPT score,Gemini score,Claude score,Evidence / notes
+Deadline compliance,25,,,,Check all deadline-sensitive tasks
+Feasibility and capacity fit,25,,,,Check overlaps and available hours
+Priority quality,20,,,,Check urgent/important reasoning
+Task coverage,15,,,,All IDs included or explicitly deferred
+Breaks and flexibility,10,,,,"Breaks, transitions, contingency"
+Clarity and usability,5,,,,Can user execute it?
+TOTAL,100,=SUM(C2:C7),=SUM(D2:D7),=SUM(E2:E7),Score only after reviewing actual outputs

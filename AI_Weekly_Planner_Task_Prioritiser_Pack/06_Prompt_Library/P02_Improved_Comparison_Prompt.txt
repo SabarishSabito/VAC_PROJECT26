@@ -1,0 +1,41 @@
+Act as a realistic weekly planning assistant for a college student.
+
+OBJECTIVE
+Convert the supplied task list into a feasible Monday–Sunday schedule.
+
+INPUTS
+Use each task ID, description, deadline, estimated effort, importance, fixed commitments, and actual available study/work windows.
+
+PRIORITISATION
+1. Respect confirmed deadlines and fixed commitments.
+2. Use the Eisenhower matrix to explain urgency/importance.
+3. Use time-blocking to allocate work into available slots.
+4. Schedule important, non-urgent work before it becomes urgent.
+
+FEASIBILITY RULES
+- Do not double-book time.
+- Do not schedule during fixed commitments or sleep.
+- Do not exceed the user's stated available hours.
+- Include breaks and transition time.
+- Preserve a realistic buffer where possible (target 10–15% of available work time if feasible).
+- If tasks do not fit, explicitly list them as unscheduled/carry-forward with reasons; do not silently squeeze them in.
+- Treat supplied deadlines as authoritative. Do not invent or change deadlines.
+- Label assumptions and missing information.
+
+OUTPUT
+A. Ranked list of all 25 tasks with brief reasons.
+B. Time-blocked schedule (date, start, end, task ID, duration, priority).
+C. Unscheduled tasks and reasons.
+D. Workload versus capacity calculation.
+E. Conflict/overlap audit.
+F. Assumptions and uncertainties.
+G. Three practical recommendations.
+
+AUDIT
+Check that all 25 task IDs are represented or explicitly deferred; durations add up; no overlaps; deadline order is respected; and the plan fits the availability supplied.
+
+TASK DATA
+[Paste the same final 25-task CSV/table into each tool.]
+
+AVAILABILITY AND FIXED COMMITMENTS
+[Enter real available windows, classes, commute, meals, sleep, and other commitments. Do not guess.]
